@@ -14,12 +14,12 @@
       "problemMatcher": []
     },
     {
-      "label": "Debug in SketchUp 2018",
+      "label": "Debug in SketchUp 2021",
       "type": "shell",
       "command": "skippy",
       "args": [
         "sketchup:debug",
-        "2018"
+        "2021"
       ],
       "problemMatcher": []
     }
