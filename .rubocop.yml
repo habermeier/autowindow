@@ -9,7 +9,7 @@ require: rubocop-sketchup
 AllCops:
   # This prevents normal RuboCop cops to run. Disable this to get full static
   # analysis of your Ruby code.
-  DisabledByDefault: true
+  DisabledByDefault: false
 
   DisplayCopNames: true
   DisplayStyleGuide: true
