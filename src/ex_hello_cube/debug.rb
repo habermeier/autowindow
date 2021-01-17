@@ -1,7 +1,7 @@
-module Examples::HelloCube
+module Bolla::WindowMaker
 
   # Reload extension by running this method from the Ruby Console:
-  #   Examples::HelloCube.reload
+  #   Bolla::WindowMaker.reload
   def self.reload
     original_verbose = $VERBOSE
     $VERBOSE = nil
@@ -14,4 +14,4 @@ module Examples::HelloCube
     $VERBOSE = original_verbose
   end
 
-end # module
+end # module Bolla::WindowMaker
